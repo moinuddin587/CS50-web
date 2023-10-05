@@ -1,0 +1,61 @@
+body {
+    background: #C5ADC5;
+}
+
+img {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#links {
+    text-align: right;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+#links a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+    color: aliceblue;
+    font-weight: bold;
+
+}
+
+.form {
+    text-align: center;
+}
+
+#text {
+    width: 45%;
+    padding: 16px 20px;
+    border-radius: 35px;
+    margin-top: 5%;
+}
+
+.submit {
+    padding: 12px;
+    font-size: 15px;
+    border-radius: 4px;
+}
+
+
+#adv-google-logo {
+    width: 90px;
+    float: left;
+}
+
+p {
+    font-size: 30px;
+    color: blueviolet;
+    margin-left: 40px;
+}
+
+.query,
+#submit {
+    float: right;
+    border-radius: 6px;
+    border: none;
+}
